@@ -1,0 +1,8 @@
+{
+  "name": "Misaka Registry",
+  "description": "A barebones Node.js Registry Application",
+  "repository": "https://github.com/misaka-railgun/misaka-registry",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
